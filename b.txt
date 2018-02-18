@@ -1,2 +1,3 @@
 Check b.txt
 append b
+append b
